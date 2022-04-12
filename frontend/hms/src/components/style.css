@@ -1,0 +1,22 @@
+.header-title{
+    margin-left: 5%;
+}
+
+.header-form{
+    margin-right: 5%;
+}
+
+.offer-carousel{
+    height: 500px;
+    width: max-content;
+    background-color: #e5e5e5;
+}
+
+.fooditemrow{
+    background-color: bisque;
+    margin: 0;
+}
+
+.emptyspace{
+    height: 20px;
+}
